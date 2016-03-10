@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+<group android:checkableBehavior="single">
+
+    <item
+        android:id="@+id/nav_map_fragment"
+        android:icon="@drawable/ic_nav_maps"
+        android:title="@string/nav_map_fragment"
+        android:checked="true" />
+    <item
+        android:id="@+id/nav_chat_fragment"
+        android:icon="@drawable/ic_nav_chat"
+        android:title="@string/nav_chat_fragment" />
+    <item
+        android:id="@+id/nav_profile_fragment"
+        android:icon="@drawable/ic_nav_profile"
+        android:title="@string/nav_profile_fragment" />
+    <item
+        android:id="@+id/nav_leaderboard_fragment"
+        android:icon="@drawable/ic_nav_leaderboards"
+        android:title="@string/nav_leaderboard_fragment" />
+
+</group>
+
+
+
+</menu>

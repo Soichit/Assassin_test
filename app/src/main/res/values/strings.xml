@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Assassin</string>
+    <string name="title_activity_maps">Assassin</string>
+    <string name="title_activity_chat">Chat</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="title_activity_leaderboard">Leaderboard</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="title_activty_join_group">Join a group</string>
+
+    <!--Navigation names-->
+    <string name="nav_open">Open nav drawer</string>
+    <string name="nav_close">Close nav drawer</string>
+    <string name="nav_map_fragment">Map</string>
+    <string name="nav_chat_fragment">Chat</string>
+    <string name="nav_leaderboard_fragment">Leaderboard</string>
+    <string name="nav_shop_fragment">Shop</string>
+    <string name="nav_profile_fragment">Profile</string>
+    <string name="admin_start_game">Start Game</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_user_name">Username</string>
+    <string name="prompt_user_password">User Password</string>
+    <string name="prompt_user_password_confirm">Confirm Password</string>
+    <string name="prompt_group_name">Group Name</string>
+    <string name="prompt_group_password">Group Password</string>
+    <string name="prompt_group_password_confirm">Confirm Password</string>
+    <string name="action_create_group">Create New Group</string>
+    <string name="action_join_group">Join</string>
+    <string name="action_sign_up">Sign Up</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_login">Incorrect email or password</string>
+    <string name="error_signup">Could not sign up</string>
+    <string name="error_password_mismatch">Passwords do not match</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="toggle_sign_in">Already have an account?</string>
+    <string name="toggle_sign_up">Need to make an account?</string>
+    <string name="google_maps_key">AIzaSyCzppS1BymYtAqT2-PkjOjIANTls5kN614</string>
+    <string name="title_activity_join_group">Join Group</string>
+    <string name="action_sign_in_short">Sign in</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
